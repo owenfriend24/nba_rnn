@@ -1,5 +1,5 @@
 # nba_rnn
-### NBA latent play-style mapping via RNN
+### Latent play-style mapping of NBA players via RNN
 
 * Unsupervised deep learning approach to defining play styles for current NBA players, identifying league archetypes, and generalizing these archetypes across eras. 
 
