@@ -10,7 +10,6 @@ def pull_season_data(season_start, season_end):
     
     path = kagglehub.dataset_download("eoinamoore/historical-nba-data-and-player-box-scores")
     player_stats = pd.read_csv(f'{path}/PlayerStatistics.csv', low_memory = False)
-    kee
     # base player stats
     player_stats['gameDateTimeEst'] = (pd.to_datetime(player_stats['gameDateTimeEst'], format='mixed', utc=True).dt.tz_convert('US/Eastern'))
     player_stats['gameDate'] = player_stats['gameDateTimeEst'].dt.date
