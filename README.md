@@ -14,4 +14,5 @@ Some highlights include:
 * The biggest shift in play-styles from the 90s to today is the explosion of off-ball 3-point specialists
 
  
- <img width="789" height="810" alt="clusters" src="https://github.com/user-attachments/assets/8a091757-77e8-4b92-b99c-6c7b0cbffca2" />
+
+<img width="789" height="810" alt="clusters" src="https://github.com/user-attachments/assets/75414deb-e5aa-4813-9562-bdceae36f2aa" />
