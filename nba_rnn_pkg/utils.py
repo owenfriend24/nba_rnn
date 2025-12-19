@@ -3,7 +3,6 @@ import os
 import pandas as pd
 import numpy as np
 
-
 def pull_season_data(season_start, season_end):
     season_start = pd.to_datetime(season_start).date()
     season_end = pd.to_datetime(season_end).date()
