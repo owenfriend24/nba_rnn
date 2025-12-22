@@ -10,7 +10,7 @@ nba_rnn.ipynb provides the full project including feature selection, scaling and
 Some highlights include:
 * Wemby's play style is embedded almost directly between LeBron and AD in feature space (see below)
 * Individual RNN units track things like rebounding prowess and "empty calorie" players who score a lot of points but don't win a lot of games
-* In latent feature space (the model's 'ball knowledge', SGA is the closest current era player to 90s Jordan. Wemby is closest to Hakeem, Devin Booker to Reggie Miller, Jokic to Larry Bird, and Julius Randle to Charles Barkley.
+* Projecting historical players into our derived latent feature space (the model's 'ball knowledge'), SGA is the closest current era player to 90s Jordan. Wemby is closest to Hakeem, Devin Booker to Reggie Miller, Jokic to Larry Bird, and Julius Randle to Charles Barkley.
 * The biggest shift in archetypal play-styles from the 90s to today is the explosion of off-ball 3-point specialists
 
 
