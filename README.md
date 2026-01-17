@@ -18,6 +18,8 @@
 * Model interpretability through hidden-unit analysis
 * Out-of-distribution generalization to historical eras
 
+---
+
 <img width="789" height="810" alt="clusters" src="https://github.com/user-attachments/assets/75414deb-e5aa-4813-9562-bdceae36f2aa" />
 
 ---
